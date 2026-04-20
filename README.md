@@ -1,3 +1,6 @@
+https://github-profile-trophy-tawny.vercel.app/?username=Codemanhtmlpythoncss&theme=radical&margin-w=5&margin-h=5
+https://ghs.hannaskairipa.com/api?username=Codemanhtmlpythoncss&show_icons=true&theme=radical
+https://ghs.hannaskairipa.com/api/top-langs/?username=Codemanhtmlpythoncss&theme=radical&layout=compact
 ## Hi there 👋
 
 <!--
